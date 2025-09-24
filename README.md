@@ -1,17 +1,17 @@
-# 🌐 Venta de Internet Hogar — ISP SPA
+#  Venta de Internet Hogar — ISP SPA
 
 Este proyecto es una aplicación web tipo **SPA (Single Page Application)** desarrollada con **HTML5, CSS3, Bootstrap 5 y JavaScript Vanilla**.  
 Su propósito es simular el proceso de contratación de planes de internet, permitiendo registrar pedidos y gestionar clientes de manera sencilla.
 
 ---
 
-## 📋 Temática
+##  Temática
 El sistema representa la página de un **proveedor de servicios de internet (ISP)** que ofrece distintos planes para el hogar.  
 Los usuarios pueden navegar entre las secciones, elegir un plan, registrar un pedido mediante un formulario validado y visualizar la lista de clientes con su respectivo estado.
 
 ---
 
-## 🚀 Funcionalidades principales
+##  Funcionalidades principales
 - **Página responsiva** con diseño adaptable para dispositivos móviles.
 - **Planes de internet** presentados en tarjetas con descripciones y precios.
 - **Formulario de registro de pedidos** con validaciones en:
@@ -31,7 +31,7 @@ Los usuarios pueden navegar entre las secciones, elegir un plan, registrar un pe
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 - **HTML5** (estructura semántica).
 - **CSS3 / SASS** (variables, mixins, grid, flexbox, estilos responsivos).
 - **Bootstrap 5** (framework frontend).
@@ -40,16 +40,16 @@ Los usuarios pueden navegar entre las secciones, elegir un plan, registrar un pe
 
 ---
 
-## 👨‍💻 Integrantes
+##  Integrantes
 - Ayala Arce Sergio Daniel  
 - Mayhualla Loayza Cristian Jesús  
 
 ---
 
-## 📸 Vista previa
+##  Vista previa
 *(Opcional: aquí puedes colocar capturas de pantalla del proyecto si lo deseas)*  
 
 ---
 
-## 📜 Licencia
+##  Licencia
 Este proyecto es de uso académico y está disponible bajo la licencia MIT.
