@@ -27,31 +27,37 @@
 </div>
 </header>
 <!-- Requisito 1: HTML5 Semántico (uso de <main> y <section>) -->
-<main class="container main-grid">
-<section id="inicio" class="card hero">
-<h1>Contrata Internet para tu hogar</h1>
-<p>Planes flexibles, instalación rápida y soporte 24/7.</p>
+<main class="container-fluid p-0">
+<section id="inicio" class="card hero p-0 border-0 rounded-0" style="width:100vw;max-width:100vw;">
+<h1 class="text-center pt-3">Contrata Internet para tu hogar</h1>
+<div style="width:100vw;overflow:hidden;display:flex;justify-content:center;align-items:center;">
+<img src="router.jpg" alt="Router de Internet" style="width:auto;max-width:100%;height:auto;max-height:400px;display:block;margin:0 auto;">
+</div>
+<p class="text-center pb-3">Planes flexibles, instalación rápida y soporte 24/7.</p>
 </section>
 <section id="planes" class="card plans" style="display:none">
 <h2>Planes disponibles</h2>
 <div class="plans-grid"><!-- Requisito 2: CSS Grid aplicado aquí -->
 <article class="plan card">
 <h3>Plan Básico</h3>
+<img src="500.png" alt="Plan 500 Mbps" style="width:100%;max-width:180px;display:block;margin:0 auto 10px auto;">
 <p>500 Mbps — Ideal para navegación y redes sociales</p>
 <p class="price">S/ 59.90 / mes</p>
 <button class="btn btn-outline-primary select-plan" data-plan="Basico" data-speed="500">Seleccionar</button>
 </article>
 <article class="plan card">
 <h3>Plan Plus</h3>
+<img src="1Gbps.jpg" alt="Plan 1000 Mbps" style="width:100%;max-width:180px;display:block;margin:0 auto 10px auto;">
 <p>1000 Mbps — Streaming y videollamadas sin cortes</p>
 <p class="price">S/ 99.90 / mes</p>
 <button class="btn btn-outline-primary select-plan" data-plan="Plus" data-speed="1000">Seleccionar</button>
 </article>
 <article class="plan card">
 <h3>Plan Ultra</h3>
-<p>2000 Mbps — Gaming y descargas pesadas</p>
+<img src="1.5Gbps.png" alt="Plan 1500 Mbps" style="width:100%;max-width:180px;display:block;margin:0 auto 10px auto;">
+<p>1500 Mbps — Gaming y descargas pesadas</p>
 <p class="price">S/ 149.90 / mes</p>
-<button class="btn btn-outline-primary select-plan" data-plan="Ultra" data-speed="2000">Seleccionar</button>
+<button class="btn btn-outline-primary select-plan" data-plan="Ultra" data-speed="1500">Seleccionar</button>
 </article>
 </div>
 </section>
