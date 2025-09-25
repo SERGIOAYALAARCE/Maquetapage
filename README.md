@@ -47,8 +47,8 @@ Los usuarios pueden navegar entre las secciones, elegir un plan, registrar un pe
 ---
 
 ##  Vista previa
-*(Opcional: aquí puedes colocar capturas de pantalla del proyecto si lo deseas)*  
-
+![apartado1](proyecto1.jpg)
+![apartado2](proyecto2.jpg)
 ---
 
 ##  Licencia
