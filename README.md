@@ -50,6 +50,3 @@ Los usuarios pueden navegar entre las secciones, elegir un plan, registrar un pe
 ![apartado1](proyecto1.jpg)
 ![apartado2](proyecto2.jpg)
 ---
-
-##  Licencia
-Este proyecto es de uso académico y está disponible bajo la licencia MIT.
