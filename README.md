@@ -42,8 +42,9 @@ Los usuarios pueden navegar entre las secciones, elegir un plan, registrar un pe
 
 ##  Integrantes
 - Ayala Arce Sergio Daniel  
-- Mayhualla Loayza Cristian Jesús  
-
+- Mayhualla Loayza Cristian Jesús
+- Huacasi Romero Kevin
+- Flores Guía Diego Fernando 
 ---
 
 ##  Vista previa
